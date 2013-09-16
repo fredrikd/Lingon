@@ -1,0 +1,6 @@
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\bin\Debug\Lingon.exe.config
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\bin\Debug\Lingon.exe
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\bin\Debug\Lingon.pdb
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\obj\Debug\Lingon.csprojResolveAssemblyReference.cache
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\obj\Debug\Lingon.exe
+C:\Users\Robo\Documents\Lingon\Lingon\Lingon\obj\Debug\Lingon.pdb
