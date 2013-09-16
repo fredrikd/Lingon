@@ -10,7 +10,8 @@ namespace Lingon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lingon!");
+            // Ny version
+            Console.WriteLine("Lingon igen 2!");
             Console.ReadLine();
         }
     }
