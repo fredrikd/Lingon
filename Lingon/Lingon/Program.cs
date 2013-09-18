@@ -11,7 +11,7 @@ namespace Lingon
         static void Main(string[] args)
         {
             // Ny version
-            Console.WriteLine("Lingon igen 2!");
+            Console.WriteLine("Lingon igen 3!");
             Console.ReadLine();
         }
     }
