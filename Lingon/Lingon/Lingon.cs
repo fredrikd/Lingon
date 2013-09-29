@@ -11,6 +11,7 @@ namespace Lingon
         int Vikt {get; set;}
         Lingon(int vikt)
         {
+            // Vikt
             Vikt = vikt;
         }
     }
